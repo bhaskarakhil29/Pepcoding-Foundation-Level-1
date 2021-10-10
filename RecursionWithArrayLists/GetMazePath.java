@@ -11,6 +11,7 @@ public class GetMazePath {
 
         ArrayList<String> paths = getMazePath(1, 1, n, m);
         System.out.println(paths);
+        sc.close();
 
     }
 
