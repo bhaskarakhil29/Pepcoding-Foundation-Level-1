@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "RecursionWithArrayLists",
-        "RecursionWithStrings"
+        "RecursionWithStrings",
+        "9-RecursionWithStrings"
     ]
 }
